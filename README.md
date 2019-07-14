@@ -5,7 +5,7 @@ ExWa adalah sebuah tool sederhana yang ditulis menggunakan PHP, yang berfungsi u
 <br>
 ### Instalation :
 
-$ git clone https://github.com/dalpan/ExWa <br>
+$ git clone https://github.com/andripwn/WhatsappSent <br>
 $ cd ExWa <br>
 $ php exwa.php <br>
 
@@ -22,4 +22,4 @@ $ --kirim <br>
 
 ####  Note : Gunakan awalan 62 untuk nomor tujuan.
 
-Contact me : danangavanmaulana@gmail.com
+Contact me : itsec.andry@gmail.com
